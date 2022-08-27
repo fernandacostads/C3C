@@ -1,0 +1,27 @@
+body {
+    background: rgba(255, 255, 255, 0.795);
+    margin: 40px;
+    border: 1px solid black;
+}
+
+body,
+h1 {
+    text-align: center;
+}
+
+div {
+    margin: 10px;
+}
+
+input {
+    background: rgb(185, 211, 214);
+}
+
+input:hover {
+    background: rgb(218, 241, 234);
+}
+
+p {
+    color: brown;
+    font-size: 18px;
+}
